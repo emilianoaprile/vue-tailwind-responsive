@@ -1,5 +1,7 @@
 <template>
-  <header class="header bg-blue-500">
+  <header
+    class="header bg-gradient-to-r from-blue-500 from-10% to-[#9593E6] to-80%"
+  >
     <div class="container mx-auto">
       <nav class="navbar flex h-16 items-center justify-between px-7 py-10">
         <div>

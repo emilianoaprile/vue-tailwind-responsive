@@ -3,9 +3,15 @@
     <div class="container mx-auto">
       <div class="testimonial_wrapper px-7">
         <div class="testimonial_header mb-14">
-          <h1 class="section_title">Testimonial</h1>
-          <p class="section_sub">We are committed expert partners</p>
-          <p class="section_text">
+          <h1 class="section_title text-center font-extralight uppercase">
+            Testimonial
+          </h1>
+          <p
+            class="section_sub mb-8 mt-8 text-center text-4xl font-extrabold text-[#9593E6]"
+          >
+            We are committed expert partners
+          </p>
+          <p class="section_text text-center">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora
             vero quisquam, dolorem iste minima blanditiis sit autem ipsam cumque
             suscipit. Natus voluptatibus quibusdam omnis, odio recusandae
